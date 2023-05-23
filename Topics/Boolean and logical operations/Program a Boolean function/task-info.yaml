@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val x = readLine().toBoolean() // read other values in the same way
+        // write your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12311#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 03 May 2023 06:32:56 UTC"
+record: -1
+submission_language: kotlin

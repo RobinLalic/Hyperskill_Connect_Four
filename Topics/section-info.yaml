@@ -1,0 +1,34 @@
+content:
+- String basics
+- String templates
+- Boolean and logical operations
+- Integers in action
+- Relational operators
+- If expression
+- Repeating blocks
+- Characters
+- Ranges
+- Introduction to MutableList
+- For loop and ranges
+- Work with MutableLists
+- For loop and lists
+- Working with strings
+- Getting substrings
+- Processing strings
+- Regexps
+- Declaring functions
+- While loops
+- List
+- Mutable List
+- Multi-dimensional list
+- When expression
+- Jumps and returns
+- Errors in programs
+- What is an exception
+- Declaring classes
+- Functional decomposition
+- Default arguments
+- Named arguments
+- Constructors
+- Debugging techniques
+- CharSequence
